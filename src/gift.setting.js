@@ -11,7 +11,7 @@ export const IS_SHOW_RESTART = true;
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '情人节送礼抽奖',
+  title: '情人节快乐-CC',
   // 留言，数组的每一项代表一行
   messages: [
     { key: 'a', wording: '你一抬眼，似华山烟雨间；', },
