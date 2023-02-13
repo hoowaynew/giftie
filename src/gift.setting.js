@@ -6,17 +6,17 @@ export const GLOBAL_KEYS = {
 };
 
 // 是否允许对方在抽奖结束后重新抽奖
-export const IS_SHOW_RESTART = false;
+export const IS_SHOW_RESTART = true;
 
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '520送礼抽奖',
+  title: '情人节送礼抽奖',
   // 留言，数组的每一项代表一行
   messages: [
-    { key: 'a', wording: '这是第一行文案：', },
-    { key: 's', wording: '这是第二行文案：', },
-    { key: 'd', wording: '然后，这里是第三行文案：', },
+    { key: 'a', wording: '你一抬眼，似华山烟雨间；', },
+    { key: 's', wording: '剑气点过我眉心，溅起春风。', },
+    { key: 'd', wording: '我也不知道她是在跑向终点还是在跑进我的心，后者的话，她早就赢了！', },
   ],
   // 最终解释权归属人
   owner: '刘富卫',
